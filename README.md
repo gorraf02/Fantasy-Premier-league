@@ -1,15 +1,19 @@
-# FPL-Weekly-Standing-Python
-# Developer: Rafek Gorgay
+# 📊 FPL-Weekly-Standing-Python
 
-this is a python script that will get all data for any league in fantasy premier league (https://fantasy.premierleague.com/)
-the script will genereate 2 reports that contain everything about the league and the players that are in the league.
+**Developer**: Rafek Gorgay
 
+Welcome to **FPL-Weekly-Standing-Python**! This Python script fetches all data for any league in Fantasy Premier League (FPL) and generates two comprehensive reports containing everything about the league and its players.
 
-How to use it.
----------------
+## 🚀 How to Use
 
-1- open the league from your browser. for example - https://fantasy.premierleague.com/leagues/xxxxxx/standings/c <br />
-2- take the league number (the position of xxxxxx in the link) <br />
-3- change the league number variable (line 11). <br />
-4- run the script. <br />
-5- the reports will be under a new folder created. <br />
+1. **Open the league** from your browser. For example: [FPL League Example](https://fantasy.premierleague.com/leagues/xxxxxx/standings/c)
+2. **Extract the league number** (the position of `xxxxxx` in the link).
+3. **Update the script**: Change the league number variable on **line 11** of the script.
+4. **Run the script**.
+5. The reports will be generated under a new folder created in the directory.
+
+## 📝 Example
+
+```python
+# Change this line in the script
+league_number = 'xxxxxx'

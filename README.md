@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/cancha/ed74100c-94d2-413b-8c02-fb2093f5b66a/4890dcd4-1977-48cc-8746-715d958fe5a0/_apis/work/boardbadge/8c421d1f-2f57-4bf3-a07c-3579cccf6338)](https://dev.azure.com/cancha/ed74100c-94d2-413b-8c02-fb2093f5b66a/_boards/board/t/4890dcd4-1977-48cc-8746-715d958fe5a0/Microsoft.RequirementCategory)
 # 📊 FPL-Weekly-Standing-Python
 
 **Developer**: Rafek Gorgay
